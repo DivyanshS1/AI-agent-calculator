@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+.agents/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build folders
+dist/
+build/
+
+# Coverage
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Agents (optional if it contains generated files)
+.agents/
+
+# Misc
+*.log
