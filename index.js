@@ -78,7 +78,7 @@ async function callModel(state) {
     {
       role: "system",
       content:
-        "You are a helpful assistant that performs arithmetic using the available tools.",
+        "You are a helpful assistant that performs arithmetic using the tools available locally.",
     },
     ...state.messages,
   ]);
