@@ -1,8 +1,6 @@
 # Node modules
 node_modules/
 
-.agents/
-
 # Environment variables
 .env
 .env.local
@@ -25,8 +23,6 @@ Thumbs.db
 
 # VS Code
 .vscode/
-
-# Agents (optional if it contains generated files)
 .agents/
 
 # Misc
